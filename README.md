@@ -1,4 +1,4 @@
-# js-dragons-I
+# js-dragons-callbacks
 This is a practice problem to test your knowledge of callbacks in JavaScript.
 
 ## Instructions
